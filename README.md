@@ -41,15 +41,6 @@ The system runs in two main phases:
 - Python 3  
 - OpenCV, NumPy, PyTorch  
 
-## Folder Structure
-
-- `scripts/`: Python scripts for segmentation and pose estimation  
-- `models/`: Pretrained weights for YOLOv8 and SAM  
-- `input/`: Raw input videos  
-- `output/`: Segmented videos and pose-annotated frames  
-- `results/`: Sample output data and evaluation results  
-- `utils/`: Helper functions for video processing  
-
 ## Sample Results
 
 - Segmentation accuracy was around 90%  
