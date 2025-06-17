@@ -43,6 +43,7 @@ The system runs in two main phases:
 
 ## Sample Results
 
+- The project inputs and outputs are provided in pdf as link which redirects to entire project
 - Segmentation accuracy was around 90%  
 - Pose estimation accuracy was approximately 20%, limited by swimmer orientation and water interference  
 
